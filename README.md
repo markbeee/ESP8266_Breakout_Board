@@ -1,0 +1,1 @@
+Breakout board for ESP8266 modules ESP-12 and ESP-07. Single sided self etchable pcb which needs three jumper wires and can sit on a breadboard leaving one row on each side free for connecting jumper wires.
