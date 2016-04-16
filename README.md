@@ -12,8 +12,6 @@ The adapter can be placed on any breadboard and leaves one row on each side avai
 
 As the pcb is single sided you have to connect three jumper wires on the bottom (see Eagle-files for directions).
 
-ESP8266 Board Adapter 
-![alt text](https://github.com/markbeee/ESP8266_Breakout_Board/images/Board_ESP8266.jpg "ESP8266 Board Adapter")
+![image](/images/Board_ESP8266.jpg )
 
-ESP8266 Board Adapter parts
-![alt text](https://github.com/markbeee/ESP8266_Breakout_Board/images/Kit.jpg "ESP8266 Board Adapter parts")
+![image](/images/Kit.jpg )
